@@ -1,0 +1,1 @@
+7th day project for Intro to Javascript. 
